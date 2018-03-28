@@ -1,8 +1,8 @@
 // Param values from https://developer.mozilla.org/Add-ons/WebExtensions/API/contextualIdentities/create
-const FACEBOOK_CONTAINER_NAME = "Facebook";
-const FACEBOOK_CONTAINER_COLOR = "blue";
+const FACEBOOK_CONTAINER_NAME = "Twitter";
+const FACEBOOK_CONTAINER_COLOR = "purple";
 const FACEBOOK_CONTAINER_ICON = "briefcase";
-const FACEBOOK_DOMAINS = ["facebook.com", "www.facebook.com", "fb.com"];
+const FACEBOOK_DOMAINS = ["twitter.com", "www.twitter.com"];
 
 const MAC_ADDON_ID = "@testpilot-containers";
 

@@ -1,4 +1,10 @@
-# Facebook Container
+# Twitter Container
+
+> (basic fork that replaces facebook domains with twitter's)
+
+Read this readme and replace everything facebook by twitter.
+
+-----
 
 **Prevent Facebook from tracking your visits to other websites**
 
